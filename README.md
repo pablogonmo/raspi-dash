@@ -12,5 +12,3 @@ This comes with absolutely no warranty or support from me.
 ____________________________________________________________________________
 
 CREDITS
-
-I am the Nuke.
